@@ -90,7 +90,7 @@ Keep in mind that the priorities are not exclusive—multiple columns can reuse 
 
 * [Swipe Demo](http://filamentgroup.github.io/tablesaw/demo/swipe.html)
 
-Allows the user to use the swipe gesture (or use the left and right buttons) to navigate the columns.
+Allows the user to use the swipe gesture (or use the left and right buttons) to navigate columns more effectively. 
 
 ![](docs/swipe-minimap.gif)
 
